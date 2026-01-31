@@ -1,4 +1,4 @@
-# Distributed ML Inference Engine (Native - No Docker)
+# Distributed ML Inference Engine
 
 A distributed inference system demonstrating consistent hashing, dynamic batching, model sharding, and horizontal scaling 
 
